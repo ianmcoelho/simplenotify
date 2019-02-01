@@ -1,0 +1,1 @@
+include ':simplenotify9', ':simplenotify2', ':core', ':simplenotify3', ':simplenotify4', ':simplenotify1', ':simplenotify5', ':simplenotify6', ':simplenotify7', ':simplenotify8'
